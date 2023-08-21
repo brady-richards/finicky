@@ -154,7 +154,7 @@ a 👍.
 
 ### Questions
 
-Have any other questions or need help? Please feel free to reach out to me on [Mastodon](https://mastodon.se/@john) or [Twitter](https://twitter.com/johnste_).
+Have any other questions or need help? Please feel free to post an issue in this repository.
 
 ## License
 
