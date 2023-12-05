@@ -1,4 +1,4 @@
-<style>
+<style type="text/css" rel="stylesheet">
 [data-color-mode=auto][data-dark-theme*=dark] img#finicky-logo {
     background-color: #00000000;
     filter: invert(1);
