@@ -1,17 +1,15 @@
-<style type="text/css" rel="stylesheet">
-[data-color-mode=auto][data-dark-theme*=dark] img#finicky-logo {
-    background-color: #00000000;
-    filter: invert(1);
-}
-</style>
 <div align="center">
-  <h1><img
-    id=finicky-logo
-    height="100"
-    width="336"
-    alt="finicky logo"
-    src="https://raw.githubusercontent.com/johnste/finicky/gh-pages/finicky-logo.svg"
-  />
+  <h1>
+      <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./dark.png">
+         <img
+            id=finicky-logo
+            height="100"
+            width="336"
+            alt="finicky logo"
+            src="https://raw.githubusercontent.com/johnste/finicky/gh-pages/finicky-logo.svg"
+          />
+    </picture>  
   </h1>
 
   <strong>🇺🇦 Always open the right browser 🇺🇦</strong><br>
