@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
       <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./dark.png">
+          <source media="(prefers-color-scheme: dark)" srcset="./dark.png](https://raw.githubusercontent.com/johnste/finicky/gh-pages/finicky-logo-dark.svg">
          <img
             id=finicky-logo
             height="100"
